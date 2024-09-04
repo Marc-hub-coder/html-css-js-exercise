@@ -1,0 +1,58 @@
+nav{
+    position: fixed !important;
+    top: 0;
+    z-index: 1000;
+    width: 1920px;
+    font-size: larger;
+}
+
+.navbar-bg{
+    background-color: #CCD5AE;
+}
+
+.navbar a{
+    color: black;
+}
+
+.navbar a:hover{
+    color: #FAEDCE !important;
+}
+
+.container{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.container2{
+    margin-top: 300px;
+}
+
+.card-text2{
+    margin-bottom: 60px;
+}
+
+.card-text3{
+    margin-bottom: 105px;
+}
+
+.custom-card1{
+    background-color: #E5E5E4;
+}
+
+.custom-card2{
+    background-color: #16A180;
+}
+
+.custom-card3{
+    background-color: #ffffff;
+}
+
+.btn-success-test1{
+    background-color: #CCD5AE !important;
+    transition: color 0.8s  ease !important;
+    border-color: #CCD5AE !important;
+}
+
+.btn-success-test1.shadow{
+    box-shadow: #CCD5AE !important;
+}
